@@ -1,6 +1,7 @@
 #### README.md
 
-    The OpenWeatherMap service provides open weather data and any geo location that is available on their website and through their API.
+    The OpenWeatherMap service provides open weather data and any geo location 
+    that is available on their website and through their API.
     
 #### Config
     Stores data in MongoDB for analysis.
